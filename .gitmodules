@@ -1,3 +1,6 @@
 [submodule "SRCNN-pytorch"]
 	path = SRCNN-pytorch
 	url = https://github.com/harutoooooooo/SRCNN-pytorch.git
+[submodule "FSRCNN-pytorch"]
+	path = FSRCNN-pytorch
+	url = https://github.com/harutoooooooo/FSRCNN-pytorch.git
