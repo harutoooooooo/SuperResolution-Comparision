@@ -1,0 +1,14 @@
+FROM python:latest
+
+RUN apt-get update && apt-get install -y \
+    software-properties-common
+
+RUN pip install --upgrade pip
+RUN pip install --upgrade torch torchvision
+RUN pip install --upgrade numpy
+RUN pip install scikit-image
+RUN pip install opencv-python-headless
+RUN pip install PyYAML
+RUN pip install matplotlib
+
+WORKDIR /app

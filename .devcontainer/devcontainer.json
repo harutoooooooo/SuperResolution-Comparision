@@ -1,0 +1,11 @@
+{
+    "name" : "Pytorch For Super-Resolution",
+    "build" : {
+        "dockerfile": "DockerFile"
+    },
+    "runArgs": ["--privileged"],
+    "mounts": [
+        "source=/Users/rosario/Super-Resolution,target=/workspace,type=bind"
+    ]
+
+}
