@@ -4,3 +4,6 @@
 [submodule "FSRCNN-pytorch"]
 	path = FSRCNN-pytorch
 	url = https://github.com/harutoooooooo/FSRCNN-pytorch.git
+[submodule "ESPCN-pytorch"]
+	path = ESPCN-pytorch
+	url = https://github.com/harutoooooooo/ESPCN-pytorch.git
