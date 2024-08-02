@@ -7,3 +7,6 @@
 [submodule "ESPCN-pytorch"]
 	path = ESPCN-pytorch
 	url = https://github.com/harutoooooooo/ESPCN-pytorch.git
+[submodule "SRDenseNet-pytorch"]
+	path = SRDenseNet-pytorch
+	url = https://github.com/harutoooooooo/SRDenseNet-pytorch.git
