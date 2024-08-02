@@ -10,3 +10,6 @@
 [submodule "SRDenseNet-pytorch"]
 	path = SRDenseNet-pytorch
 	url = https://github.com/harutoooooooo/SRDenseNet-pytorch.git
+[submodule "RDN-pytorch"]
+	path = RDN-pytorch
+	url = https://github.com/harutoooooooo/RDN-pytorch.git
